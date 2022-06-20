@@ -12,4 +12,4 @@ plugins:
 title: '闲人'
 description: 'in the bleak midwinter'
 show_downloads: false
-google_analytics: 'https://github.com/kirin-dev/kirin-dev.github.io/'
+google_analytics: '' # Google Analytics ID 用于流量分析
