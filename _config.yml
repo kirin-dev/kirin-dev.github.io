@@ -1,5 +1,14 @@
-theme: jekyll-theme-cayman
+# @author kirin-dev
+# @date 2022/6/20
+# @version 1.0
 
+# introduce cayman
+theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+
+# web information 
+title: '闲人'
+description: 'in the bleak midwinter'
+show_downloads: true
